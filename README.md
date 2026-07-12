@@ -119,7 +119,7 @@ UAE-focused accounting and bookkeeping platform with double-entry accounting, VA
 
 | Stack | Scale | Performance | Security | Impact | Repository / Live |
 |:--|:--|:--|:--|:--|:--|
-| Vanilla JS · Supabase PostgreSQL · Edge Functions · Tesseract OCR · AI workflows | Multi-module accounting OS | Edge-function backed, OCR-assisted entry | Supabase Auth · RLS-ready | VAT-compliant bookkeeping for UAE SMBs | [Live ↗](https://muhasib-fawn.vercel.app/landing.html) |
+| React · PostgreSQL · Edge Functions · Tesseract OCR · AI workflows | Multi-module accounting OS | Edge-function backed, OCR-assisted entry | Supabase Auth · RLS-ready | VAT-compliant bookkeeping for UAE SMBs | [Live ↗](https://muhasib-fawn.vercel.app/landing.html) |
 
 </details>
 
