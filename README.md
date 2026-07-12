@@ -55,7 +55,6 @@ open_to:
   - AI Full-Stack Developer roles
   - Software Engineer roles
   - Freelance SaaS and automation projects
-  - Remote · India · UAE opportunities
 ```
 
 ---
