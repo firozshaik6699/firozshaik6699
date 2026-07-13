@@ -266,21 +266,7 @@ Academic AI / IoT project using eye detection logic to identify driver fatigue a
 
 <img src="https://github-profile-trophy.vercel.app/?username=firozshaik6699&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 
-</div>
-
----
-
-<!-- ===================== 12 · ACTIVITY GRAPH ===================== -->
-
-## <img src="https://img.shields.io/badge/-A78BFA?style=flat-square" width="14" /> Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=firozshaik6699&bg_color=0f0524&color=c4b5fd&line=7c3aed&point=A78BFA&area=true&area_color=4c1d95&hide_border=true" alt="Activity Graph" />
-
-</div>
-
----
+</div
 
 <!-- ===================== 13 · SNAKE ===================== -->
 
